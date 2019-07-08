@@ -16,5 +16,5 @@ class PartitionApp {
 		int partDex = arr.partitionIt(0, size - 1, pivot);
 		System.out.println(", Partition is at index " + partDex);
 		arr.display(); // display partitioned array
-	} // end main()
+	} // end main()//
 }
